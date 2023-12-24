@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='C:\Users\boeva\AppData\Local\nvim'
+let g:netrw_dirhist_1='D:\Coding\c_sharp\ASP.NET\Solify'
+let g:netrw_dirhist_0='C:/Users/boeva/AppData/Local/nvim/after/plugin'
+let g:netrw_dirhist_9='C:/Users/boeva/AppData/Local/nvim/after'
+let g:netrw_dirhist_8='C:\Users\boeva\AppData\Local\nvim'
+let g:netrw_dirhist_7='C:\Users\boeva\AppData\Local\nvim\lua\bobbi'
+let g:netrw_dirhist_6='C:\Users\boeva\AppData\Local\nvim\after\plugin'
+let g:netrw_dirhist_5='C:/Users/boeva/AppData/Local/nvim/after/plugin'
+let g:netrw_dirhist_4='C:/Users/boeva/AppData/Local/nvim/after'
+let g:netrw_dirhist_3='C:\Users\boeva\AppData\Local\nvim'
